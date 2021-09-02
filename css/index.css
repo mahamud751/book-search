@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    background-color: #f1f1f1;
+    font-family: 'Poppins', sans-serif;
+}
+#errorMessage {
+    display: none;
+}
+#spinner {
+    display: none;
+}
+#itemFound{
+    display: none;
+}
+
+.spinner-border {
+    margin-top: 200px;
+    width: 6rem;
+    height: 6rem; 
+}
+.btn:hover{
+    background: rgb(0, 0, 0);
+}
